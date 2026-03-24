@@ -1,4 +1,4 @@
-# 📊 Análise de Desempenho Escolar - SARESP 2025
+# 📊 Análise de Dados Educacionais com Python
 
 ## 🎯 Objetivo
 Este projeto tem como objetivo analisar o desempenho de alunos do 9º ano do Ensino Fundamental a partir de dados do SARESP 2025, com foco em apoiar a tomada de decisão pedagógica baseada em dados.
